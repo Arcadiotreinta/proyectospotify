@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+}
+
+header{
+    background-color: white;
+    text-align: center;
+}
+
+main{
+    background-color: green;
+    text-align: center;
+    
+}
+
+footer{
+    background-color: green;
+    color:chocolate;
+    text-align: center;
+    
+}
+
